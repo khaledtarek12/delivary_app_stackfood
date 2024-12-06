@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559684398091",
+    "project_id": "delifast-67af3",
+    "storage_bucket": "delifast-67af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559684398091:android:1b24aac9e2bd4fbc252b0e",
+        "android_client_info": {
+          "package_name": "com.delifast.delifast_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzciJ4K853GAvMsJ3_hcT0JFLa1jtZctM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559684398091:android:ecc9429ae8fe280c252b0e",
+        "android_client_info": {
+          "package_name": "com.delifast.delifast_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzciJ4K853GAvMsJ3_hcT0JFLa1jtZctM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
